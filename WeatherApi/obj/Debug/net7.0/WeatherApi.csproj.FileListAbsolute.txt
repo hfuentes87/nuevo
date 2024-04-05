@@ -1,0 +1,66 @@
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\appsettings.Development.json
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\appsettings.json
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.exe
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.deps.json
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.runtimeconfig.json
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.dll
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.pdb
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\WeatherApi\WeatherApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.csproj.AssemblyReference.cache
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.AssemblyInfoInputs.cache
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.AssemblyInfo.cs
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.csproj.CoreCompileInputs.cache
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.WeatherApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WeatherApi.props
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WeatherApi.props
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WeatherApi.props
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\scopedcss\bundle\WeatherApi.styles.css
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.csproj.CopyComplete
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.dll
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\refint\WeatherApi.dll
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.pdb
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.genruntimeconfig.cache
+D:\Workspace\WeatherApi\WeatherApi\obj\Debug\net7.0\ref\WeatherApi.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\appsettings.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.exe
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.deps.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.runtimeconfig.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\WeatherApi.pdb
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.csproj.AssemblyReference.cache
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.AssemblyInfo.cs
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.WeatherApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.build.WeatherApi.props
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WeatherApi.props
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WeatherApi.props
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\scopedcss\bundle\WeatherApi.styles.css
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.csproj.CopyComplete
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\refint\WeatherApi.dll
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.pdb
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\WeatherApi.genruntimeconfig.cache
+C:\Users\hfuentes\Documents\Capacitaciones\NET y Docker\WeatherApi\WeatherApi\obj\Debug\net7.0\ref\WeatherApi.dll
